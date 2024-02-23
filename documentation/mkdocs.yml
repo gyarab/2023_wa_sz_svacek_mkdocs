@@ -1,0 +1,6 @@
+site_name: Černá ruka
+
+nav:
+  - Nabidka: nabidka.md
+
+theme: windmill

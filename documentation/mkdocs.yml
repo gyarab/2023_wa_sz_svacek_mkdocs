@@ -1,6 +1,6 @@
-site_name: Černá ruka
+site_name: WA Docs
 
 nav:
-  - Nabidka: nabidka.md
+  - WA hodina: wahod.md
 
-theme: windmill
+theme: readthedocs

@@ -1,19 +1,32 @@
-# Welcome to MkDocs
+# Welcome to WA Docs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Pro více informaci navštivte [maturitní otázky](https://www.gyarab.cz/media/maturita/INF_E.pdf) z informatiky.
 
-## O nás
+## Maturitní otázky - informatika
 
-## Commands
+* Čísla a číselné algoritmy
+* Znaky, řetězce a textové soubory
+* Pole a kolekce – seznam, množina a mapa (asociativní pole)
+* Halda, fronta a zásobník
+* Grafy – vlastnosti
+* Grafy – algoritmy
+* Grafy – použití
+* Vyhledávání
+* Řazení
+* Návrhové vzory
+* ícevláknové programování
+* plikace klient – server
+* Databáze - selekce, projekce a agregace
+* Databáze - relace a referenční integrita
+* Program a databáze
+* Internetové protokoly
+* Bezpečnost a šifrování
+* Statické webové stránky
+*  Kaskádové styly
+* Dynamické webové stránky
+* Soubory a systémy souborů v Unixu
+* Procesy v Unixu
+* Uživatelé v Unixu
+* Práce s textem v Unixu
+* Shell a programování v shellu
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.

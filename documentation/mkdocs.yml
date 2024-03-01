@@ -3,4 +3,7 @@ site_name: WA Docs
 nav:
   - WA hodina: wahod.md
 
-theme: readthedocs
+theme: ivory
+
+extra_css:
+  - style.css
